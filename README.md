@@ -1,5 +1,9 @@
 # TriPhase Cable Fault Locator
 
+<p align="center">
+  <img src="hardware.jpeg" alt="Wiring Diagram" width="600"/>
+</p>
+
 An embedded system for detecting and locating faults in underground three-phase cables.  
 By sending high-voltage pulses and measuring reflected signals, this device calculates the distance to the fault on each phase (R, Y, B), visualizes distance thresholds with LEDs, displays precise readings on an LCD, and alerts via buzzer.
 
