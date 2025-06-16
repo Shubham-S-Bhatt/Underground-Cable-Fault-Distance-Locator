@@ -1,7 +1,7 @@
 # TriPhase Cable Fault Locator
 
 <p align="center">
-  <img src="hardware.jpeg" alt="Wiring Diagram" width="600"/>
+  <img src="hardware.jpeg" alt="Wiring Diagram" width="500"/>
 </p>
 
 An embedded system for detecting and locating faults in underground three-phase cables.  
